@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: adsl
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: e1401159
+Implementation-Vendor-Id: fi.puv.e1401159
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/adsl/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

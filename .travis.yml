@@ -1,0 +1,10 @@
+language: java
+jdk:
+ - oraclejdk8
+before_install:
+  - mysql -e 'CREATE DATABASE e1401159_ADSL;'
+deploy:
+ provider: heroku
+ api-key: 
+  secure: 9b52a29f-2339-4f39-aa56-825a25245f54
+app: adsltravishero

@@ -6,5 +6,5 @@ before_install:
 deploy:
  provider: heroku
  api-key: 
-  secure: $HEROKU_API_KEY
+  secure: 9b52a29f-2339-4f39-aa56-825a25245f54
 app: adsltravishero
